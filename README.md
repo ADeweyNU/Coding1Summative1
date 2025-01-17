@@ -18,20 +18,20 @@ This was a quick introduction to Python. It was created to test various function
 
 The functions are designed to be pure, meaning:
 >They have side effects, changing nothing outside of themselves.
->
+
 >Same inputs, get the same output. An int goes in, int comes out.
->
-No external dependencies. The function exists ‘as-is’ and no external data is needed.
+
+>No external dependencies. The function exists ‘as-is’ and no external data is needed.
 
 Where possible these have been kept, however, as some numbers are randomly generated, and thus output is ‘different’ each time, it could be argued these are impure.
 
-###System Requirements
+### System Requirements
 This program was created in Visual Code and runs through the console. It is a small program and doesn’t require much overhead or system requirements. There is no need for extra libraries or software.
 
 ### How users can get started with the project
 To get started the user will need to download the repository. After clicking on the file named ‘Summative1’. The program will begin and can be interacted with through the terminal.
 
-###Longer term goals
+### Longer term goals
 
 >If there has been more time I would have liked to have output of the score and names to a file. This could be used as a ‘high score’ table of sorts. This could be done by open, write and close.
 
