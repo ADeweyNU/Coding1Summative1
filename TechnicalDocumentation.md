@@ -23,7 +23,18 @@ For a rough outline.
 ## Begining
 At the start, I begin with a comment. This is an easy way to display the name of the file, and why it has been created. TO ceate a comment in Python, the # is used.
 After this, are the imports, taking from other distinguished libraries to use certain functions. This one is 'random'. I will need it so that I can generate my random functions. This will be used to generate the number to add together.
-Finally, after that I use #region, which can be closed with #endregion. This allows you to et diffeent regions of the code and name them. THey cna be closed and minimised to save space.
+Finally, after that I use #region, which can be closed with #endregion. This allows you to set different regions of the code and name them. They can be closed and minimised to save space.
 
 ![image](https://github.com/user-attachments/assets/f6bf74cd-fb5a-4aad-8a73-afd79f4567cc)
+
+## Code Example : 
+
+![image](https://github.com/user-attachments/assets/4cc42fcf-f24e-4df1-b85c-fb975003dabd)
+
+This example of code is a function. They have specific tasks and can take input, do a task and then output. To create one, 'def' is used in Python, followed by the name. After this, in the open brackets the arguments, or 'inputs' are shown. This example has 2, ints or 'numbers' called Num1 and Num2. Under that is the docstring, which is a quick explanation of what the function does. Under that I have a comment, explaining the behaviour of the function. Finally, under that is return, this is what the function will 'return' when called.
+
+![Tech3](https://github.com/user-attachments/assets/53bf27a4-f833-4d55-919b-e5399bc9be2c)
+
+
+
 
