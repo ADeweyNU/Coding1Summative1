@@ -1,4 +1,4 @@
-#Technical Documentation
+# Technical Documentation
 
 This is the brief technical outline of my code. There will be snippets of code, analysis and explanation.
 
