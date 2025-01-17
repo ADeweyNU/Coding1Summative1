@@ -27,7 +27,7 @@ Finally, after that I use #region, which can be closed with #endregion. This all
 
 ![image](https://github.com/user-attachments/assets/f6bf74cd-fb5a-4aad-8a73-afd79f4567cc)
 
-## Code Example : 
+## Code Example : Function
 
 ![image](https://github.com/user-attachments/assets/4cc42fcf-f24e-4df1-b85c-fb975003dabd)
 
@@ -35,6 +35,12 @@ This example of code is a function. They have specific tasks and can take input,
 
 ![Tech3](https://github.com/user-attachments/assets/53bf27a4-f833-4d55-919b-e5399bc9be2c)
 
+## Code Example : Mutability
 
+Python is dynamically typed, which means that variables are typed by how they are used and what is put in them. FOr example x could be assigned the value '1', and then later changed to string 'fish'.
+This can present certain issues and irregularities when trying to compare things such as a string to a number. As I found out later.
+In this example ehre I am initilaising the variables, and assigning them a type.So they will always stay that type.
+
+![image](https://github.com/user-attachments/assets/6827a54b-192f-46be-b81e-f4e9e9ffa24f)
 
 
