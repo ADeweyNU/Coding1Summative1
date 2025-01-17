@@ -4,7 +4,6 @@
 ### Summative Assessment 1: Set Programming Exercises
 Created in Python 3.12
 
-
 ### What the project does
 This is a simple interactive maths quiz presented to the user through the console. It will open to a black screen, with takes user input via keyboard.
 It will randomly generate some questions, and then ask the user to solve them. The user assigns themselves a name and then will input numbers to solve these.
